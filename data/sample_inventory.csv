@@ -1,0 +1,39 @@
+Item_ID,Item_Name,Category,Supplier,Location,Quantity,Reorder_Level,Unit_Cost,Unit_Price,Last_Restocked
+SKU-1000,Wireless Mouse,Electronics,Prime Vendor Group,Warehouse A,26,11,94.57,167.43,2026-05-06
+SKU-1001,USB-C Cable,Electronics,NorthStar Supply Co.,Warehouse A,27,44,183.4,285.96,2026-06-24
+SKU-1002,Bluetooth Speaker,Electronics,Acme Distributors,Warehouse A,100,23,40.27,52.09,2026-06-26
+SKU-1003,Laptop Stand,Electronics,Metro Logistics,Warehouse B,158,44,15.93,27.39,2026-02-02
+SKU-1004,Webcam HD,Electronics,Global Parts Ltd.,Warehouse A,63,20,150.88,245.16,2026-04-22
+SKU-1005,Mechanical Keyboard,Electronics,NorthStar Supply Co.,Warehouse B,12,31,6.62,11.8,2026-06-08
+SKU-1006,Power Bank,Electronics,Global Parts Ltd.,Store Room 1,59,48,208.36,276.58,2026-03-07
+SKU-1007,HDMI Adapter,Electronics,Metro Logistics,Warehouse A,18,34,46.68,61.15,2026-01-23
+SKU-1008,A4 Paper Ream,Office Supplies,Metro Logistics,Store Room 1,0,46,77.1,116.8,2026-06-15
+SKU-1009,Stapler,Office Supplies,Acme Distributors,Warehouse B,87,28,108.84,149.63,2026-06-07
+SKU-1010,Sticky Notes,Office Supplies,BrightWay Wholesale,Store Room 1,132,39,153.55,197.11,2026-05-22
+SKU-1011,Ballpoint Pens (Box),Office Supplies,Global Parts Ltd.,Store Room 1,112,23,74.1,105.21,2026-01-09
+SKU-1012,Whiteboard Markers,Office Supplies,Prime Vendor Group,Warehouse A,184,48,114.83,191.89,2026-05-01
+SKU-1013,Binder Clips,Office Supplies,NorthStar Supply Co.,Store Room 2,197,34,51.12,77.12,2026-01-07
+SKU-1014,File Folders,Office Supplies,Metro Logistics,Warehouse B,44,30,148.72,182.61,2026-05-05
+SKU-1015,Desk Organizer,Office Supplies,Acme Distributors,Store Room 1,89,35,152.47,198.56,2026-02-07
+SKU-1016,Office Chair,Furniture,Prime Vendor Group,Store Room 1,73,23,17.67,31.26,2026-01-19
+SKU-1017,Standing Desk,Furniture,BrightWay Wholesale,Warehouse B,0,26,241.46,406.87,2026-02-09
+SKU-1018,Bookshelf,Furniture,Metro Logistics,Store Room 1,196,47,77.2,97.16,2026-03-22
+SKU-1019,Filing Cabinet,Furniture,Global Parts Ltd.,Warehouse B,29,18,171.53,251.14,2026-06-20
+SKU-1020,Monitor Arm,Furniture,Acme Distributors,Warehouse B,0,50,31.83,47.65,2026-01-09
+SKU-1021,Cable Tray,Furniture,BrightWay Wholesale,Main DC,73,14,10.05,17.54,2026-02-17
+SKU-1022,Coffee Pods (Box),Kitchen & Pantry,Global Parts Ltd.,Main DC,17,10,65.81,105.13,2026-01-09
+SKU-1023,Bottled Water Case,Kitchen & Pantry,Metro Logistics,Store Room 1,13,31,78.96,119.39,2026-05-23
+SKU-1024,Paper Cups,Kitchen & Pantry,BrightWay Wholesale,Warehouse A,71,26,137.36,180.07,2026-02-23
+SKU-1025,Instant Noodles,Kitchen & Pantry,Acme Distributors,Store Room 1,100,50,242.44,403.68,2026-05-24
+SKU-1026,Tea Bags Box,Kitchen & Pantry,Global Parts Ltd.,Warehouse B,179,44,234.97,408.12,2026-07-02
+SKU-1027,Sugar Sachets,Kitchen & Pantry,Metro Logistics,Store Room 1,23,41,150.08,263.11,2026-04-15
+SKU-1028,Hand Sanitizer,Cleaning Supplies,NorthStar Supply Co.,Warehouse A,146,25,23.49,30.95,2026-06-12
+SKU-1029,Disinfectant Spray,Cleaning Supplies,Acme Distributors,Store Room 2,82,14,12.74,17.77,2026-05-31
+SKU-1030,Paper Towels,Cleaning Supplies,NorthStar Supply Co.,Store Room 2,0,45,98.09,133.68,2026-02-17
+SKU-1031,Trash Bags Roll,Cleaning Supplies,Metro Logistics,Store Room 2,119,23,207.44,293.33,2026-01-07
+SKU-1032,Glass Cleaner,Cleaning Supplies,NorthStar Supply Co.,Store Room 1,201,35,71.31,108.79,2026-03-29
+SKU-1033,Cardboard Boxes (M),Packaging,BrightWay Wholesale,Main DC,0,38,36.52,61.4,2026-05-06
+SKU-1034,Bubble Wrap Roll,Packaging,Acme Distributors,Store Room 1,25,11,20.03,35.9,2026-02-02
+SKU-1035,Packing Tape,Packaging,NorthStar Supply Co.,Warehouse A,21,14,193.4,255.14,2026-05-05
+SKU-1036,Shipping Labels,Packaging,Acme Distributors,Warehouse A,7,31,2.87,4.85,2026-04-22
+SKU-1037,Poly Mailers (Pack),Packaging,Prime Vendor Group,Store Room 2,115,23,177.15,290.07,2026-02-06
