@@ -71,6 +71,12 @@ must include these columns:
 
 - **📊 Stock Levels** — quantity on hand per item, status breakdown, restock recency.
 - **🚨 Low Stock Alerts** — items at/under reorder level, urgency ranking, downloadable reorder list.
+
+## Proof of Execution
+<img width="1914" height="937" alt="Screenshot 2026-07-03 165241" src="https://github.com/user-attachments/assets/a075af51-0efd-4bf6-8f4b-da768c772b3c" />
+<img width="1902" height="951" alt="Screenshot 2026-07-03 165319" src="https://github.com/user-attachments/assets/b322ac7b-0098-46f3-bf87-b97394d4d614" />
+<img width="1916" height="944" alt="Screenshot 2026-07-03 165257" src="https://github.com/user-attachments/assets/24519460-ab48-4a72-8f27-10dff9023f68" />
+
 - **🗂️ Category Analysis** — value and unit distribution across categories, stock-status composition.
 - **🏭 Supplier Analysis** — value and risk exposure per supplier, SKU footprint.
 - **💰 Inventory Valuation** — total cost/retail value, treemap breakdown, top items by value, cost vs. retail comparison.
