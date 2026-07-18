@@ -3,6 +3,11 @@
 A Streamlit + Plotly dashboard for tracking stock levels, low-stock alerts,
 category analysis, supplier analysis, and inventory valuation.
 
+## 🌐 Live Demo
+
+**Try the live application here:**  
+https://inventory-dashboard-njebgc9mvmjcvcbnr97pkx.streamlit.app/
+
 ## Folder Structure
 
 ```
